@@ -12,3 +12,6 @@ ls list files
 ls-a view hidden files
 <br>
 git status -> get status
+git add file name
+git commit -m "some message"
+git push origin main
